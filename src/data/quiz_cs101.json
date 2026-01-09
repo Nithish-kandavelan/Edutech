@@ -1,0 +1,50 @@
+{
+  "course": "CS101",
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Which data structure uses LIFO?",
+      "options": [
+        { "text": "Queue", "correct": false },
+        { "text": "Stack", "correct": true },
+        { "text": "Graph", "correct": false }
+      ]
+    },
+    {
+      "id": "q2",
+      "prompt": "What is the time complexity of accessing an array element by index?",
+      "options": [
+        { "text": "O(1)", "correct": true },
+        { "text": "O(n)", "correct": false },
+        { "text": "O(log n)", "correct": false }
+      ]
+    },
+    {
+      "id": "q3",
+      "prompt": "Which operation is efficient in a queue?",
+      "options": [
+        { "text": "Insertion at tail", "correct": true },
+        { "text": "Random access", "correct": false },
+        { "text": "Deletion from middle", "correct": false }
+      ]
+    },
+    {
+      "id": "q4",
+      "prompt": "A linked list is best for:",
+      "options": [
+        { "text": "Fast random access", "correct": false },
+        { "text": "Frequent insertions/deletions", "correct": true },
+        { "text": "Constant-time indexing", "correct": false }
+      ]
+    },
+    {
+      "id": "q5",
+      "prompt": "Which structure is ideal for implementing DFS?",
+      "options": [
+        { "text": "Queue", "correct": false },
+        { "text": "Stack", "correct": true },
+        { "text": "Priority Queue", "correct": false }
+      ]
+    }
+  ]
+}

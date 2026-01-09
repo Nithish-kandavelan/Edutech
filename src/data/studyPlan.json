@@ -1,0 +1,40 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "hours": 6,
+      "sessions": [
+        { "topic": "Algorithmic thinking warm-up", "duration": 2 },
+        { "topic": "Stacks vs Queues: operations", "duration": 2 },
+        { "topic": "Reading: Proof strategies intro", "duration": 2 }
+      ]
+    },
+    {
+      "week": 2,
+      "hours": 6,
+      "sessions": [
+        { "topic": "Linked Lists: traversal and insertion", "duration": 2 },
+        { "topic": "Complexity: Big-O practice", "duration": 2 },
+        { "topic": "Combinatorics: counting principles", "duration": 2 }
+      ]
+    },
+    {
+      "week": 3,
+      "hours": 6,
+      "sessions": [
+        { "topic": "Graph basics: terminology", "duration": 2 },
+        { "topic": "Queues in BFS", "duration": 2 },
+        { "topic": "Reflection notes update", "duration": 2 }
+      ]
+    },
+    {
+      "week": 4,
+      "hours": 6,
+      "sessions": [
+        { "topic": "Practice set: algorithm analysis", "duration": 2 },
+        { "topic": "Slides review: recursion", "duration": 2 },
+        { "topic": "Quiz review and retry", "duration": 2 }
+      ]
+    }
+  ]
+}

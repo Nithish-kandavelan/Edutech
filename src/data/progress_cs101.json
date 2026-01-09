@@ -1,0 +1,18 @@
+{
+  "courseId": "cs101",
+  "overallProgress": 68,
+  "timeline": [
+    { "label": "Week 1", "score": 58 },
+    { "label": "Week 2", "score": 60 },
+    { "label": "Week 3", "score": 63 },
+    { "label": "Week 4", "score": 66 },
+    { "label": "Week 5", "score": 67 },
+    { "label": "Week 6", "score": 68 }
+  ],
+  "reflections": [
+    {
+      "date": "2026-01-05",
+      "note": "Focused on stacks vs queues; practice improved conceptual clarity."
+    }
+  ]
+}

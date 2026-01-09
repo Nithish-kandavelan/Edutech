@@ -1,0 +1,61 @@
+{
+  "courses": [
+    {
+      "id": "cs101",
+      "code": "CS101",
+      "title": "Introduction to Computer Science",
+      "progress": 68,
+      "syllabus": [
+        { "topic": "Algorithms & Problem Solving", "outcomes": "Design basic algorithms and analyze complexity." },
+        { "topic": "Data Structures", "outcomes": "Use arrays, stacks, queues, and linked lists in programs." },
+        { "topic": "Programming Paradigms", "outcomes": "Compare imperative and functional approaches." }
+      ],
+      "materials": [
+        { "title": "Course Syllabus PDF", "type": "PDF", "description": "Full syllabus with week-by-week outline and assessment rubric." },
+        { "title": "Lecture 3: Stacks & Queues", "type": "Slides", "description": "Slide deck covering use cases and operations." },
+        { "title": "Reading: Algorithmic Thinking", "type": "Lecture Notes", "description": "Text notes with examples and pseudocode templates." }
+      ],
+      "topics": [
+        { "name": "Algorithm Analysis", "mastery": 72 },
+        { "name": "Stacks & Queues", "mastery": 60 },
+        { "name": "Linked Lists", "mastery": 55 }
+      ]
+    },
+    {
+      "id": "math201",
+      "code": "MATH201",
+      "title": "Discrete Mathematics",
+      "progress": 52,
+      "syllabus": [
+        { "topic": "Logic & Proofs", "outcomes": "Construct direct and indirect proofs." },
+        { "topic": "Combinatorics", "outcomes": "Apply counting principles and permutations." },
+        { "topic": "Graph Theory", "outcomes": "Analyze properties of graphs and trees." }
+      ],
+      "materials": [
+        { "title": "Proof Techniques Overview", "type": "PDF", "description": "A concise guide to common proof strategies with examples." }
+      ],
+      "topics": [
+        { "name": "Propositional Logic", "mastery": 65 },
+        { "name": "Counting", "mastery": 48 },
+        { "name": "Graphs", "mastery": 43 }
+      ]
+    },
+    {
+      "id": "phy101",
+      "code": "PHY101",
+      "title": "General Physics I",
+      "progress": 74,
+      "syllabus": [
+        { "topic": "Kinematics", "outcomes": "Model 1D and 2D motion with calculus." },
+        { "topic": "Dynamics", "outcomes": "Apply Newton's laws to force systems." }
+      ],
+      "materials": [
+        { "title": "Lab Manual: Motion", "type": "PDF", "description": "Experiments on displacement, velocity, and acceleration." }
+      ],
+      "topics": [
+        { "name": "Kinematics", "mastery": 78 },
+        { "name": "Forces", "mastery": 70 }
+      ]
+    }
+  ]
+}
